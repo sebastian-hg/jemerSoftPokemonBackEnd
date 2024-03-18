@@ -1,0 +1,4 @@
+client:
+  allInformation : https://pokeapi.co/api/v2/
+  allPokemonUrl : https://pokeapi.co/api/v2/pokemon/
+  getDescription : https://pokeapi.co/api/v2/pokedex/
